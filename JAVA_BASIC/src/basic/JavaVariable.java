@@ -9,7 +9,7 @@ package basic;
 //	 -char (문자형) 'A', '!'
 //	 -boolean (논리형) = true or false
 //
-//	2.객체자료형 (기본자료형 제외한 모든 자료형은 객체자료형이다)
+//	2.객체자료형 (기본자료형 제외한 모든 자료형은 객체자료형이다) 첫글자 대문자
 //	 -Class
 //	 -Array
 //	 -String (문자열) "hello"
