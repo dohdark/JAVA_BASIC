@@ -17,6 +17,7 @@ public class ShopMain {
 		System.out.println("▒▒ 3. 제품 조회 ");
 		System.out.println("▒▒ 4. 제품 검색 ");
 		
+		System.out.print("번호를 입력 >> ");
 		Scanner sc = new Scanner(System.in);
 		int num = sc.nextInt();
 		
